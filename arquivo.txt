@@ -2,4 +2,9 @@ primeiro teste
 segundo teste usando o pull
 essa é uma nova modificação
 não está indo
+<<<<<<< HEAD
 última tentativaaaa, não consigo fazer
+=======
+
+e se eu fizer um pull agora?
+>>>>>>> 86b855123efa369a4cf6b813d1883ff9bc41b17a
